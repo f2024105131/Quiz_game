@@ -1,0 +1,22 @@
+# ---- Build artifacts ----
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs ----
+*.log
